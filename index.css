@@ -1,0 +1,11 @@
+.bottom{    width: 300px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: auto;
+    background-color: white;
+
+  }
+
+body{
+    background-image: url("img/Gluten-Free-Chocolate-Chip-Cookies_730px-featured-500x500.jpg");
+}
